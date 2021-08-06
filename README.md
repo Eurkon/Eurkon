@@ -10,4 +10,4 @@ Email: eurkon@foxmail.com
 
 ![Eurkon's github stats](https://github-readme-stats.eurkon.vercel.app/api?username=Eurkon&theme=react&include_all_commits=false&hide_border=true&show_icons=true)
 
-![Eurkon's github langs](https://github-readme-stats.eurkon.vercel.app/api/top-langs/?username=Eurkon&langs_count=8)
+![Eurkon's github langs](https://github-readme-stats.eurkon.vercel.app/api/top-langs/?username=Eurkon&langs_count=8&layout=compact)
